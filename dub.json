@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Kazuki Komatsu"
+	],
+	"copyright": "Copyright © 2019, Kazuki Komatsu",
+	"description": "SIMD-Vectorized Sum-Product Decoder",
+	"license": "CC0",
+	"name": "ldpc-sp-decoder",
+	"_dflags": ["-mcpu=native"]
+}
